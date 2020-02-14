@@ -3,4 +3,6 @@
 3. git commit
 4. git status
 
+5. add license
+
 
