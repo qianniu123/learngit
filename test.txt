@@ -1,1 +1,5 @@
 hello test rm file from git
+
+
+git reset --hard HEAD^
+
